@@ -43,7 +43,7 @@ const deadStatus: StatusParams = { state: 'dead', docCount: 0 };
 const extId = 'marksman';
 const extName = 'Marksman';
 const compatibleServerRelease = MARKSMAN_BIN_VERSION;
-const releaseBaseUrl = 'https://github.com/artempyanykh/marksman/releases/download';
+const releaseBaseUrl = 'https://ghproxy.com/https://github.com/artempyanykh/marksman/releases/download';
 
 const statusNotificationType = new NotificationType<StatusParams>('marksman/status');
 

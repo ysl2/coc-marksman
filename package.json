@@ -1,5 +1,5 @@
 {
-  "name": "@yaegassy/coc-marksman",
+  "name": "ysl2/coc-marksman",
   "version": "0.2.7",
   "marksmanBinVersion": "2023-03-04",
   "description": "Marksman (Markdown LSP server) extension for coc.nvim",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yaegassy/coc-marksman"
+    "url": "https://github.com/ysl2/coc-marksman"
   },
   "publishConfig": {
     "access": "public"
